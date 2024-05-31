@@ -10,5 +10,5 @@ This repository contains twitter data sentiment analysis on Russia vs Ukraine wa
 6. LDA (Latent Dirichlet Allocation)
 7. Plots
 8. Miscellaneous
-  8.1 Sentiment Analysis Using Transformer Model
-  8.2 Spam detection using Hugging Face pre-trained model
+	1. Sentiment Analysis Using Transformer Model
+	2. Spam detection using Hugging Face pre-trained model
